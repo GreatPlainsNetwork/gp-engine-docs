@@ -1,0 +1,8 @@
+site_name: GP-ENGINE Documentation
+
+theme:
+  name: material
+
+
+nav:
+  - Home: index.md
