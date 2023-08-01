@@ -4,8 +4,8 @@ The GP-ENGINE project advances the adoption of advanced computing and data resou
 
 ## Status
 
-- [ ] Gather requirements for nodes
-- [ ] Procurement Process
+- [x] Gather requirements for nodes
+- [x] Procurement Process
 - [ ] Receive Hardware
 - [ ] Pre-Install Hardware
     - [ ] Acquire site-specific configurations
@@ -13,4 +13,6 @@ The GP-ENGINE project advances the adoption of advanced computing and data resou
 
 ## Requirements for Deployment
 
-
+- Incoming and outgoing connections without firewalls.  The GP-Engine node should be in the site's [Science DMZ](https://fasterdata.es.net/science-dmz/).
+- IPMI access to the node.  We can work with jump hosts, if necessary.  Otherwise, an ACL on a switch would be fine.
+- [Jumbo packets](https://en.wikipedia.org/wiki/Jumbo_frame) enabled on the route to the WAN.
