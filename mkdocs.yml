@@ -10,6 +10,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Node Configuration: node-configuration.md
 
 
 markdown_extensions:
