@@ -12,7 +12,7 @@ The [GP-ENGINE](https://gp-engine.org) project advances the adoption of advanced
 - [ ] Send servers to final sites
 - [ ] Site trainings
 
-## List of trainings
+## Trainings
 
 - University of Nebraska-Lincoln: January 18th, 2023
 
