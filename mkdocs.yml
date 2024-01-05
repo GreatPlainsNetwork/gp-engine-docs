@@ -6,6 +6,7 @@ theme:
   name: material
   features:
     - content.action.edit
+    - navigation.footer
 
 
 nav:
@@ -19,3 +20,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+extra:
+  social:
+    - icon: material/web
+      link: https://gp-engine.org
+      name: GP-Engine Website
+
+copyright: This project is supported by National Science Foundation under Grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2322218" className="underline">OAC-2322218</a>. Any opinions, findings, conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
