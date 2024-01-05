@@ -1,7 +1,7 @@
 # GP-ENGINE Node Configuration
 
 <figure markdown>
-  ![GP-ENGINE Node](/images/dellemc-pexe8545.avif){ width="300", align=right }
+  ![GP-ENGINE Node](images/dellemc-pexe8545.avif){ width="300", align=right }
   <figcaption>Dell PowerEdge XE8545 (Credit: Dell)</figcaption>
 </figure>
 
