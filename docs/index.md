@@ -6,7 +6,7 @@ The [GP-ENGINE](https://gp-engine.org) project advances the adoption of advanced
 
 - [x] Gather requirements for nodes
 - [x] Procurement Process
-- [x] Receive Hardware
+- [x] [Receive Hardware](node-configuration.md)
 - [x] Pre-Install Hardware
     - [ ] Acquire site-specific configurations
 - [ ] Send servers to final sites
