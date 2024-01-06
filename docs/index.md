@@ -14,7 +14,7 @@ The [GP-ENGINE](https://gp-engine.org) project advances the adoption of advanced
 
 ## Trainings
 
-- University of Nebraska-Lincoln: January 18th, 2023
+- University of Nebraska-Lincoln: January 18th, 2024
 
 ## Requirements for Deployment
 
