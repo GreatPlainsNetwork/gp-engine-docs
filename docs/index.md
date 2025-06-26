@@ -2,6 +2,8 @@
 
 The [GP-ENGINE](https://gp-engine.org) project advances the adoption of advanced computing and data resources in the [Great Plains Network](https://www.greatplains.net/) region.
 
+Additional information available at https://gp-engine.umsystem.edu/
+
 ## Status
 
 - [x] Gather requirements for nodes
