@@ -8,17 +8,18 @@ The [GP-ENGINE](https://gp-engine.org) project advances the adoption of advanced
 - [x] Procurement Process
 - [x] [Receive Hardware](node-configuration.md)
 - [x] Pre-Install Hardware
-    - [ ] Acquire site-specific configurations
-- [ ] Send servers to final sites
-- [ ] Site trainings
+    - [x] Acquire site-specific configurations
+- [x] Send servers to final sites
+- [x] (Ongoing) Site trainings
 
 ## Trainings
 
 - University of Nebraska-Lincoln: January 18th, 2024
+- University of South Dakota: March 26-27, 2025
 
 ## Requirements for Deployment
 
-The GP-ENGINE nodes are added to the [National Research Platforms's](https://nationalresearchplatform.org/) (NRP) Nautilus kubernetes.  The NRP has their own [requirements](https://docs.nationalresearchplatform.org/admindocs/participating/new-contributor-guide/) for nodes found on their documentation.  The requirements can be summarized as:
+The GP-ENGINE nodes are added to the [National Research Platforms's](https://nationalresearchplatform.org/) (NRP) Nautilus kubernetes.  The NRP has their own [requirements](https://nrp.ai/documentation/admindocs/participating/new-contributor-guide/) for nodes found on their documentation.  The requirements can be summarized as:
 
 - Incoming and outgoing connections without firewalls.  The GP-Engine node should be in the site's [Science DMZ](https://fasterdata.es.net/science-dmz/).
 - IPMI access to the node.  We can work with jump hosts, if necessary.  Otherwise, an ACL on a switch would be fine.
