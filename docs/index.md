@@ -14,6 +14,8 @@ The [GP-ENGINE](https://gp-engine.org) project advances the adoption of advanced
 
 ## Trainings
 
+Training materials are available on [Github](https://github.com/MUAMLL/gp-engine-tutorials)
+
 - University of Nebraska-Lincoln: January 18th, 2024
 - University of South Dakota: March 26-27, 2025
 
